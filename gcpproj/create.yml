@@ -1,0 +1,16 @@
+---
+- name: Configurating
+  hosts: all
+  become: yes
+  become_method: sudo
+  roles:
+    - java
+    - nginx
+    - aspnet
+
+#  vars_files:
+#    - var
+
+
+
+

@@ -1,0 +1,11 @@
+/proj/terraform.tfstate
+/proj/terraform.tfstate.backup
+/proj/.terraform
+/proj/myKey.pem
+/proj/.terraform.lock.hd
+/gcpproj/.terraform.lock.hd
+/gcpproj/myKey.pem
+/gcpproj/.terraform
+/gcpproj/terraform.tfstate
+/gcpproj/terraform.tfstate.backup
+
